@@ -1,0 +1,6 @@
+name: Setlocationplace
+version: '${project.version}'
+main: setlocationplace.main.Setlocationplace
+softdepend: [HolographicDisplays]
+commands:
+  setplace:
